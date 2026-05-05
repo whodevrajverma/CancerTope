@@ -190,7 +190,7 @@ If you use Cancertope, please cite:
 Gupta et al. (2016)
 A Platform for Designing Genome-Based Personalized Immunotherapy or Vaccine against Cancer
 PLOS ONE
-DOI: [https://doi.org/10.1371/journal.pone.0166372]([url](https://doi.org/10.1371/journal.pone.0166372))  ￼
+DOI: ([url](https://doi.org/10.1371/journal.pone.0166372))  ￼
 
 ⸻
 
