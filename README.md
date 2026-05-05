@@ -128,11 +128,6 @@ Each entry includes:
 
 ⸻
 
-🌐 Web Server
-
-Access the platform here:
-👉 http://crdd.osdd.net/raghava/cancertope/
-
 Features:
 
 * Database browsing
@@ -156,14 +151,6 @@ Cancertope supports:
     * Normal genome
 
 ➡️ Outputs patient-specific neoepitopes  ￼
-
-⸻
-
-📦 Dataset Access
-
-Mutation dataset available at:
-
-👉 https://figshare.com/articles/CANCERTOPE_MUTATION_DATASET_txt/4176558  ￼
 
 ⸻
 
@@ -203,7 +190,7 @@ If you use Cancertope, please cite:
 Gupta et al. (2016)
 A Platform for Designing Genome-Based Personalized Immunotherapy or Vaccine against Cancer
 PLOS ONE
-DOI: 10.1371/journal.pone.0166372  ￼
+DOI: [https://doi.org/10.1371/journal.pone.0166372]([url](https://doi.org/10.1371/journal.pone.0166372))  ￼
 
 ⸻
 
@@ -212,9 +199,10 @@ DOI: 10.1371/journal.pone.0166372  ￼
 Developed under the Open Source Drug Discovery (OSDD) initiative
 
 Prof. Dr. Gajendra PS Raghava
+
 raghava@iiitd.ac.in
 
-Website: http://www.imtech.res.in/raghava/cancertope/  ￼
+Website: [https://webs.iiitd.edu.in/raghava/cancertope/  ]([url](https://webs.iiitd.edu.in/raghava/cancertope/))￼
 
 ⸻
 
