@@ -211,6 +211,9 @@ DOI: 10.1371/journal.pone.0166372  ￼
 
 Developed under the Open Source Drug Discovery (OSDD) initiative
 
+Prof. Dr. Gajendra PS Raghava
+raghava@iiitd.ac.in
+
 Website: http://www.imtech.res.in/raghava/cancertope/  ￼
 
 ⸻
