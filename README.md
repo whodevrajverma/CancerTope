@@ -14,6 +14,8 @@ A Platform for Designing Genome-Based Personalized Immunotherapy or Vaccine agai
 PLOS ONE
 DOI: https://doi.org/10.1371/journal.pone.0166372
 
+This dataset can also be found on Zenodo at https://doi.org/10.5281/zenodo.20065434
+
 ## About the Platform
 
 Cancertope is designed to address a key bottleneck in cancer immunotherapy:
